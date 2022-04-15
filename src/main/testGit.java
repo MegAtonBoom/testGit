@@ -4,7 +4,8 @@ public class testGit {
         stampa();
     }
     public static void stampa(){
+        int a=20;
         //print
-        System.out.println("stampa23");
+        System.out.println(a);
     }
 }
