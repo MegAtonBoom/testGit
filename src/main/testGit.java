@@ -6,6 +6,6 @@ public class testGit {
     public static void stampa(){
         int a=20;
         //print
-        System.out.println(a);
+        System.out.println(a+" test");
     }
 }
