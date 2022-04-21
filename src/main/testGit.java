@@ -7,6 +7,7 @@ public class testGit {
         int a=20;
         //print
 
-        System.out.println(a+" test");
+        System.out.println(a+" test\n");
+        System.out.println(a+" test2");
     }
 }
