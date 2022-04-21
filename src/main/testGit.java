@@ -9,5 +9,6 @@ public class testGit {
 
         System.out.println(a+" test\n");
         System.out.println(a+" test2");
+        System.out.println(a+" test3");
     }
 }
